@@ -7,7 +7,6 @@ import com.google.common.collect.Iterables;
 import io.vavr.control.Option;
 import org.springframework.web.bind.annotation.*;
 
-
 @RestController
 public class RequestController {
 
